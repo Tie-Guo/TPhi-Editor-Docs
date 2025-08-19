@@ -1,2 +1,5 @@
-# TPhi-Editor-Docs
-doce for tphi editor
+# 欢迎
+
+如果不出意外的话，你应该是想写Phigros自制谱面的新人。
+
+如果是这种情况，请在左侧的侧边栏选择条目以跳转相对应的页面。
