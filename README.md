@@ -12,4 +12,4 @@
 
 [TG铁锅炖大鹅的B站](https://space.bilibili.com/508557497)
 
-[点击此处下载图标](/icon.svg)
+[点击此处下载图标](/logo.svg)
