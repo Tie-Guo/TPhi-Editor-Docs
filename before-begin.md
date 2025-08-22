@@ -28,4 +28,6 @@ Phigros谱面未在Phira社区上架为stable的原因不外乎以下几点：
 | RAM | 暂缺 | 6GB |
 | 预留储存空间 | 256MB | 1GB |
 
+> [!NOTE] 对于操作系统版本可能需要测试，如果你的设备无法安装TPhiEditor请在Github Issues提问。
+
 做完准备工作之后，请用QQ搜索1055365096并加群。
