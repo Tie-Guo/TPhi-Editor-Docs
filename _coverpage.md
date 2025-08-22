@@ -7,7 +7,7 @@
 * 支持Android移动设备
 * 无需Winlator等第三方模拟器
 
-[Github](/DENINED.md)
-[快速开始](?id=tphieditor-alpha)
+[Github](https://github.com/Tie-Guo/TPhi-Editor-Docs)
+[快速开始](/README)
 
-![color](#BFD7D1)
+![bg](image-1.png)
