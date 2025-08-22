@@ -3,7 +3,7 @@ name: 提交bug/反馈建议
 about: 暂时没有描述
 title: 反馈建议
 labels: ''
-assignees: SungHerobrine97,Tie_Guo
+assignees: Tie_Guo
 
 ---
 
