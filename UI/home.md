@@ -1,6 +1,6 @@
 # 编辑器主页
 
-<img src="/UI/img1.jpg" height="250" >
+<img src="https://tie-guo.github.io/TPhi-Editor-Docs/UI/img1.jpg" height="250" >
 
 A: 对单个谱面的选项，从左至右依次为播放，编辑，导出和更多。
 
