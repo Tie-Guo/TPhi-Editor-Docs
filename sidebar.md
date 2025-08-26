@@ -4,7 +4,11 @@
 * UI界面介绍
     * [编辑器主页](/UI/home)
     * [编辑器界面](/UI/editor)
+* 故障排除
+    * [我的谱面不见了](/troubleshooting/mychartislost)
 * [贡献者指南（未完成）](/styleguide)
+* [如何保证谱面上架](/stable-guide)
 * 更改日志（月度更新？）
     * [2025年8月](/changelogs/202508)
 * [鸣谢](/CREDITS)
+* [查看本仓库的issue](https://github.com/Tie-Guo/TPhi-Editor-Docs/issues)
