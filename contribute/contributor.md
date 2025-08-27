@@ -64,4 +64,20 @@ $ git config --global user.email johndoe@example.com
 
 在你的fork仓库主页，点击contribute，然后点击Create Pull Request。
 
-在点击之后的下一个页面当中，你有机会检验你的更改。
+在点击之后的下一个页面填写你的标题和描述后，点击Create Pull Request（如下图）。
+
+![](image-2.png)
+
+最后稍等不知道1天还是2天就行了，如果你的Pull Request被打回，这些审核员会告诉你原因。
+
+## 谨防诈骗
+
+尽管这个仓库撑死只有一个index.html和若干个markdown文档组成，但是：
+
+绝大多数情况下**只需复制报错信息到Bing或者Github**就可以查到一些答案，但也有可能会一无所获。
+
+目前为止，Re:PhiEdit和TPhiEdit都不是可公开获得的软件（出于某些原因），获取Re:PhiEdit时，请认准cmdysj，谨防假冒。（如果有其他人声称有Re:PhiEdit源码，拉黑并举报就是。）而TPhi Editor，请按照[这个指南](/before-begin.md)来获取TPhi Editor。
+
+> *首先，我建议直接屏蔽CSDN，除了新添的仅VIP可阅读之外，先前就充斥着各种复制粘贴的文档，非常浪费你要解决问题搜索时造成的无效搜索。在中文互联网搜索不到你想要的结果时，可以试试别的搜索引擎，比如Bing，Google。*
+>
+> *此外，很多微信公众号个人比较反感，首先，他们无法被搜索引擎检索，这就与“共享”的初衷违背，其次，这里面通常夹带私货，同时公众号也开始收费，会劝退更多在这上面分享信息的个人开发者，导致整体质量进一步下降。* —— Shanwer's Blog（M.W.D.可没在给Shanwer打广告）
