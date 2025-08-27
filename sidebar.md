@@ -7,7 +7,8 @@
 * 写谱教程（待补充）
 * 故障排除
     * [我的谱面不见了](/troubleshooting/mychartislost)
-* [贡献者指南（未完成）](/styleguide)
+* [贡献者指南](/contribute/contributor)
+    * [风格指南](/contribute/styleguide)
 * [如何保证谱面上架](/stable-guide)
 * 更改日志（月度更新？）
     * [2025年8月](/changelogs/202508)
