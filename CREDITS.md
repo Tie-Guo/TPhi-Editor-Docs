@@ -17,8 +17,16 @@
 
 ## 文档贡献者
 
-后续补充。
+* M.W.D.
+* ~~Github Copliot~~（别指望这孩子了）
 
-## 构建本文档所用的软件
+## 构建本文档所用的软件/平台
 
-[Docsify](https://docsify.js.org/)（如果你不会Markdown，你可以翻仓库来学）
+* [Docsify](https://docsify.js.org/)（如果你不会Markdown，你可以翻仓库来学）
+* [Github](https://github.com)
+
+## 以及这些引用作品的来源
+
+* [Shanwer's Blog](https://blog.shanwer.top)
+* [Godot Documents](https://docs.godotengine.org/zh-cn)
+* [Limbus Company 灰机Wiki](https://limbuscompany.huijiwiki.com)（封面图引用了Limbus Company灰机Wiki）
