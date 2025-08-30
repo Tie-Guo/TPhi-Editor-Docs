@@ -9,7 +9,7 @@
     * [我的谱面不见了](/troubleshooting/mychartislost)
 * [贡献者指南](/contribute/contributor)
     * [风格指南](/contribute/styleguide)
-* [如何保证谱面上架](/stable-guide)
+* [如何保证/提升谱面质量](/stable-guide)
 * 更改日志（月度更新？）
     * [2025年8月](/changelogs/202508)
 
