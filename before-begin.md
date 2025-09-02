@@ -24,7 +24,7 @@ Phigros谱面未在Phira社区上架为stable的原因不外乎以下几点：
 |  | 最低要求 | 建议要求 |
 | :------ | :------ | :------ |
 | Phigros rks<sup>已废弃</sup> | 暂缺 | 16.6 |
-| 其他游戏谱面 | 确保手里有一张过审谱面（不包括Phigros） | 暂缺 |
+| 其他游戏谱面 | 确保手里有一张过审谱面（不包括Phigros）<sup>2</sup> | 暂缺 |
 | Android操作系统版本 | 9<sup>1</sup> | 11 |
 | RAM | 3GB<sup>1</sup> | 6GB |
 | 预留储存空间 | 256MB | 1GB |
@@ -35,4 +35,10 @@ Phigros谱面未在Phira社区上架为stable的原因不外乎以下几点：
 
 做完准备工作之后，请用QQ搜索1055365096并加群。
 
+谱面要求参见[如何保证/提升谱面质量](/stable-guide)的“采音和可玩性部分”。
+
+## 注释
+
 <sup>1</sup>：最低要求数据来自于[docs.godotengine.org](https://docs.godotengine.org/zh-cn/4.x/about/system_requirements.html#id2)，可能存在变动，具体要求请自行测试。
+
+<sup>2</sup>：以群内的管理员的要求为准。
