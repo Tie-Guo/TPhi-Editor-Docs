@@ -66,6 +66,4 @@ Cinamoro - Wandering
 
 ## 附件
 
-把网盘链接放在这个地方（用markdown的方法）。
-
-> 百度网盘拒收。
+本教程不提供曲目文件（请自行前往Cinamoro的BandCamp获取）
