@@ -4,7 +4,8 @@
 * UI界面介绍
     * [编辑器主页](/UI/home)
     * [编辑器界面](/UI/editor)
-* 写谱教程（待补充）
+* 写谱教程
+    * [新建你的第一个谱面](/tutorials/basic/new-chart)
 * 故障排除
     * [我的谱面不见了](/troubleshooting/mychartislost)
 * [贡献者指南](/contribute/contributor)
