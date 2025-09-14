@@ -1,6 +1,6 @@
 
 ![logo](/logo.svg)
-# TPhiEditor <small>Alpha</small>
+# TPhi Editor <small>Alpha</small>
 
 > 也许这是一个支持Android的Phigros自制谱谱面编辑器？
 
@@ -10,4 +10,4 @@
 [Github](https://github.com/Tie-Guo/TPhi-Editor-Docs)
 [快速开始](/README)
 
-![bg](image-1.png)
+![bg](bg.png)
