@@ -8,12 +8,14 @@
     * [新建你的第一个谱面](/tutorials/basic/new-chart)
 * 故障排除
     * [我的谱面不见了](/troubleshooting/mychartislost)
+    * [安装报错](/troubleshooting/installerror)
 * [贡献者指南](/contribute/contributor)
     * [风格指南](/contribute/styleguide)
 * [如何保证/提升谱面质量](/stable-guide)
 * 更改日志（月度更新？）
     * [2025年8月](/changelogs/202508)
     * [2025年9月](/changelogs/202509)
+    * [2025年9月二改](/changelogs/202509-v2)
 
 ------------
 
