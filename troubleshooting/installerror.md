@@ -23,12 +23,16 @@
 ## 解析软件包时出现问题
 
 > [!TIP]
+>
+> MixerWangDev个人偏见：
 > 
 > Godot引擎官方建议在Android 9（或者更新）设备上安装运行，如果遇到这个错误请直接查看你设备的Android版本。
 >
-> 不建议在HarmonyOS NEXT设备上安装TPhi Editor，具体情况请参考Godot官方在GitHub的issues [#12734](https://github.com/godotengine/godot-proposals/issues/12734) [#10067](https://github.com/godotengine/godot-proposals/discussions/10067)
+> 不建议在HarmonyOS NEXT设备上使用卓易通（或者出境易）安装TPhi Editor，具体情况请参考Godot官方在GitHub的issues [#12734](https://github.com/godotengine/godot-proposals/issues/12734) [#10067](https://github.com/godotengine/godot-proposals/discussions/10067)
 >
-> 关于鸿蒙操作系统的问题请直接询问cmdysj（请勿询问TG铁锅顿大鹅）。
+> 关于鸿蒙操作系统的问题请直接询问cmdysj（请勿询问TG铁锅炖大鹅）。
+>
+> 如果你正在使用HarmonyOS NEXT设备并且恰好没有安装卓易通（或者出境易）无法打开apk文件，则只能更换设备（华为和鸽游的原因没办法）。
 
 带着你的手机型号直接反馈到群内以更新最低要求。
 
@@ -57,3 +61,9 @@
 > 如果你是IT管理员，请严格按照所在的企业规章制度。
 
 感兴趣的在[这里](https://support.google.com/a/answer/9997133?hl=zh-Hans)了解。
+
+## 打开apk文件时没有调出数据包安装程序
+
+这种情况特定于一部分的华为手机（已安装HarmonyOS NEXT），这种情况只能更换设备。（参考“解析软件包时出现问题”）
+
+然而一个例外是安装了ChromeOS的桌面电脑（不同于fydeOS），**ChromeOS Flex无法安装安卓应用**，如果你的电脑不小心安装了这个操作系统**建议设置Linux容器并使用Phichain**（以实现曲线救国）。
