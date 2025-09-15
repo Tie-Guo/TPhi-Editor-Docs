@@ -22,7 +22,13 @@
 
 ## 解析软件包时出现问题
 
+> [!TIP]
+> 
 > Godot引擎官方建议在Android 9（或者更新）设备上安装运行，如果遇到这个错误请直接查看你设备的Android版本。
+>
+> 不建议在HarmonyOS NEXT设备上安装TPhi Editor，具体情况请参考Godot官方在GitHub的issues [#12734](https://github.com/godotengine/godot-proposals/issues/12734) [#10067](https://github.com/godotengine/godot-proposals/discussions/10067)
+>
+> 关于鸿蒙操作系统的问题请直接询问cmdysj（请勿询问TG铁锅顿大鹅）。
 
 带着你的手机型号直接反馈到群内以更新最低要求。
 
