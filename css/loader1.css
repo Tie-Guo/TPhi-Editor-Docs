@@ -1,7 +1,7 @@
 /* From Uiverse.io by kennyotsu */ 
 .card {
   /* color used to softly clip top and bottom of the .words container */
-  --bg-color: #092729;
+  --bg-color: #222222;
   background-color: var(--bg-color);
   padding: 1rem 2rem;
   border-radius: 1.25rem;
@@ -42,7 +42,7 @@
   display: block;
   height: 100%;
   padding-left: 6px;
-  color: #956afa;
+  color: #a2573f;
   animation: spin_4991 4s infinite;
 }
 
