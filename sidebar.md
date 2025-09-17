@@ -22,6 +22,7 @@
 * 邪修教程
     * [BPM列表设置（手动设置）](/tutorials/others/BPM-List/bpm-list)
 * [术语表](/cheatsheet)
+* [FAQ](/faq/1)
 
 ------------
 
