@@ -5,8 +5,8 @@
 需要准备以下工具：
 * Github账户（没有账户的可以去[这个链接](https://github.com/signup)注册一个）
 * 熟悉一下Git
-* 一定的TPhi Editor使用经验（不一定，看到侧边栏的邪修教程了吗？）
-* 一些其他软件的使用经验（具体看下列列表，不要求全部掌握）
+* 一定的TPhi Editor使用经验（看到侧边栏的邪修教程了吗？）
+* 一些其他软件的使用经验（具体软件看下列列表，不要求全部掌握）
     * Adobe Photoshop或者Clip Studio Paint
     * Re:PhiEdit（必须）
     * Microsoft 365
@@ -48,13 +48,13 @@
 
 ## Git推送相关
 
-首次推送仓库前，请运行一下这个命令（前面的路径可忽略，仅为演示）：
+首次推送仓库前，请运行一下这个命令（前面的路径可忽略，相关的虚构用户名和电子邮箱仅为演示）：
 ``` Bash
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+Carlotta@montelli-2501:~$ git config --global user.name "Carlotta"
+Carlotta@montelli-2501:~$ git config --global carlotta@montelli.onmicrosoft.com
 ```
 
-之后按照你所用的代码编辑器的源代码管理集成完成提交和仓库推送（你可能会被要求登录，别慌）。
+之后按照你所用的代码编辑器的源代码管理集成完成提交和仓库推送（你会被要求登录到Github）。
 
 > [!WARNING] 如果你在推送更改时遇到报错，请勿惊慌。尝试更换网络环境并重新推送更改（本地文件绝对没事）。
 
