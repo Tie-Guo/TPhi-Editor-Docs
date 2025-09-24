@@ -3,13 +3,13 @@
 ## 先决条件
 
 - 掌握一定程度的TPhi Editor知识
-- 其他软件的一些知识（视你自己的情况绝对怎么写）
+- 其他软件的一些知识（视你自己的情况决定教程怎么写）
 
 > 本教程不需要用到Git，如果你不知道怎么用markdown写文档，请转到[此处](https://markdown.com.cn/)来学习Markdown语法。
 
 ## 下载项目文件
 
-点击此处前往M.W.D.写的教程模板仓库，点击“Code”，选择“Download ZIP”。
+点击[此处](https://github.com/SungHerobrine97/Train-MD-Template)前往M.W.D.写的教程模板仓库，点击“Code”，选择“Download ZIP”。
 
 在接下来弹出的窗口选择“下载”（或者“保存”）。
 
