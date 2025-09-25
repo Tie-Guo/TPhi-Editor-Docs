@@ -41,7 +41,7 @@
 >
 > 如果仍然怀疑TPhi Editor是病毒软件，请转到[这个链接](https://www.virscan.org/report/3bc2ebdefadef54925ad6ec8da657ced0ca7a2dcde405fc114f99b0fc9278e95)查看杀毒查杀报告（报告来源：VirScan）。
 > 
-> *If it says that one or two virus scanners flagged it, that usually means it's a false positive. Only if a significant portion of the virus scanners flag it there might really be a virus in it.* - WorldPainter对于病毒误报的说明
+> *If it says that one or two virus scanners flagged it, that usually means it's a false positive. Only if a significant portion of the virus scanners flag it there might really be a virus in it.* - WorldPainter.net<sup>1</sup>对于病毒误报的说明
 
 首次运行时的界面如下：
 
@@ -66,3 +66,9 @@
 > 请勿尝试给制谱团队批量部署TPhi Editor，可能会引起不必要的麻烦。
 >
 > 这个限制可能在某个未来得到民间解决方案。
+
+## 另请参阅
+
+<sup>1</sup>：[https://www.worldpainter.net/trac/wiki/FalsePositives](https://www.worldpainter.net/trac/wiki/FalsePositives)
+
+<sup>2</sup>：[如何不说假话地制作一份网络安全谣言？ - 龙腾猫跃](https://bilibili.com/opus/718413265600774179)
