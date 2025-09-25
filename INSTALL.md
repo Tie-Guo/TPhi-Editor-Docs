@@ -40,6 +40,8 @@
 > 本应用程序不会收集任何隐私数据（无论是通话记录，短信，还是微信聊天记录），如果遇到任何问题，请联系群管。
 >
 > 如果仍然怀疑TPhi Editor是病毒软件，请转到[这个链接](https://www.virscan.org/report/3bc2ebdefadef54925ad6ec8da657ced0ca7a2dcde405fc114f99b0fc9278e95)查看杀毒查杀报告（报告来源：VirScan）。
+> 
+> *If it says that one or two virus scanners flagged it, that usually means it's a false positive. Only if a significant portion of the virus scanners flag it there might really be a virus in it.* - WorldPainter对于病毒误报的说明
 
 首次运行时的界面如下：
 
