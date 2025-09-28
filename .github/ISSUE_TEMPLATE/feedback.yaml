@@ -49,3 +49,10 @@ body:
       description: 请上传你的涉事谱面文件（如果其他谱面也出现类似问题请勿填写）
     validations:
       required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: 有其他的吗？
+      description: 上传参考文章请
+    validations:
+      required: false
