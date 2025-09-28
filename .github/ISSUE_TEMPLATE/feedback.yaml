@@ -35,11 +35,12 @@ body:
       description: 请尽可能详细描述你的问题。
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: tpe_version
     attributes:
       label: TPhi Editor版本号
       description: 提供一下TPhi Editor版本号，只允许0.x.x.x格式
+      placeholder: 0.x.x.x
     validations:
       required: true
   - type: textarea
