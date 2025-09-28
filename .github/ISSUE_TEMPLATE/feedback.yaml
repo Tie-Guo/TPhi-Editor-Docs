@@ -1,0 +1,59 @@
+name: 问题反馈（使用中文）（测试）
+description: 一些乱七八糟的漏洞
+labels: ['feedback']
+body: 
+  - type: markdown
+    attributes: 
+      value: |
+        提交前说明：
+      
+        如果你是因为以下问题来到这里提问的，我们建议你绕道而行（有些问题真的无能为力）。
+      
+         - 你使用了其他改版
+         - 你希望给TPhi Editor添加其他软件没有的功能
+         - 想让TPhi   Editor适配其他平台（包括鸿蒙NEXT）
+         - 想让TPhi Editor上架应用商店
+      
+  - type: checkboxes
+    id: checks
+    attributes: 
+      label: 在提交之前...
+      description: 请确认以下条目以确保开发人员（或者社区人士能解决您的问题）
+      options: 
+        - label: 我确认我所遇到的问题影响到了我正常写谱
+          required: true
+        - label: 我确认这个问题没有人在Github Issues提问过。
+          required: true
+        - label: 我理解 Issue 是用于反馈和解决问题的，而非吐槽评论区，将尽可能提供更多信息帮助问题解决
+          required: true
+        - label: 我填写了简短且清晰明确的标题，以便开发者在翻阅 issue 列表时能快速确定大致问题。而不是“一个建议”、“卡住了”等
+          required: true
+  - type: textarea
+    id: describe
+    attributes:
+      label: 问题描述
+      description: 请尽可能详细描述你的问题。
+    validations:
+      required: true
+  - type: input
+    id: tpe_version
+    attributes:
+      label: TPhi Editor版本号
+      description: 提供一下TPhi Editor版本号，只允许0.x.x.x格式
+      placeholder: 0.x.x.x
+    validations:
+      required: true
+  - type: textarea
+    id: upload
+    attributes:
+      label: 上传有问题的谱面
+      description: 请上传你的涉事谱面文件（如果其他谱面也出现类似问题请勿填写）
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: 有其他的吗？
+      description: 上传参考文章请
+    validations:
+      required: false
