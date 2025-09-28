@@ -43,7 +43,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: describe
+    id: upload
     attributes:
       label: 上传有问题的谱面
       description: 请上传你的涉事谱面文件（如果其他谱面也出现类似问题请勿填写）
