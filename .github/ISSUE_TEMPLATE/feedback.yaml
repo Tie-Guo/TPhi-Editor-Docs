@@ -1,5 +1,6 @@
 name: 问题反馈（使用中文）（测试）
 description: 一些乱七八糟的漏洞
+labels: ['feedback']
 body: 
   - type: markdown
     attributes: 
@@ -8,10 +9,10 @@ body:
       
         如果你是因为以下问题来到这里提问的，我们建议你绕道而行（有些问题真的无能为力）。
       
-        - 你使用了其他改版
+         - 你使用了其他改版
          - 你希望给TPhi Editor添加其他软件没有的功能
          - 想让TPhi   Editor适配其他平台（包括鸿蒙NEXT）
-        - 想让TPhi Editor上架应用商店
+         - 想让TPhi Editor上架应用商店
       
   - type: checkboxes
     id: checks
