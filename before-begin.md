@@ -31,7 +31,7 @@ Phigros谱面未在Phira社区上架为stable的原因不外乎以下几点：
 
 > [!NOTE] Godot引擎官方文档的说法：*强烈建议在低端硬件上自己进行测试，确保项目能够在需要的速度下运行。*
 >
-> **如果你的设备无法安装TPhi Editor，请在Github Issues提问。**
+> **如果你的设备无法安装TPhi Editor，请带上系统信息在Github Issues上提问。**
 
 做完准备工作之后，请用QQ搜索1055365096并加群。
 
