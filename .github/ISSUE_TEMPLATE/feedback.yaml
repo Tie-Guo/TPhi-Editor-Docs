@@ -55,7 +55,7 @@ body:
   - type: textarea
     id: other
     attributes:
-      label: 有其他的吗？
-      description: 上传参考文章请
+      label: 有其他的建议吗？
+      description: 上传上传参考文章，如果有在线文档链接请粘贴在线文档链接。
     validations:
       required: false
