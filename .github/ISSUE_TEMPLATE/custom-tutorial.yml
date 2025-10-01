@@ -1,0 +1,29 @@
+name: 提交自定义教程
+description: 向文档站提交教程
+labels: ['tutorial']
+body: 
+  - type: input
+    id: tutorial_title
+    attributes:
+      label: 教程标题
+      description: 写一下教程标题，如果留空则从markdown文档内总结
+    validations:
+      required: false
+  - type: textarea
+    id: tutorial_upload
+    attributes:
+      label: 上传教程文件
+      description: 仅接受zip格式
+    validations:
+      required: true
+  - type: input
+    id: author_tutorial
+    attributes:
+      label: 留下你的名字
+      description: 方便写入贡献者名单，可以不填。
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        请确保你写的内容尊重每一位创作者。
