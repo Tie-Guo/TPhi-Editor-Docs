@@ -27,6 +27,6 @@
 
 ## 以及这些引用作品的来源
 
-* [Shanwer's Blog](https://blog.shanwer.top)
-* [Godot Documents](https://docs.godotengine.org/zh-cn)
+* [Shanwer](https://blog.shanwer.top)
+* [Godot官网文档](https://docs.godotengine.org/zh-cn)
 * [Limbus Company 灰机Wiki](https://limbuscompany.huijiwiki.com)（封面图引用了Limbus Company灰机Wiki）
