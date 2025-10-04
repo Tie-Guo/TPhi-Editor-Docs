@@ -66,8 +66,12 @@
 
 这种情况特定于一部分的华为手机（已安装HarmonyOS NEXT），这种情况只能更换设备。（参考“解析软件包时出现问题”）
 
-然而一个例外是安装了ChromeOS的桌面电脑（不同于fydeOS），**ChromeOS Flex无法直接安装安卓应用**，如果你的电脑不小心安装了这个操作系统**建议设置Linux容器并使用Phichain**（以实现曲线救国）。
+然而一个例外是安装了ChromeOS Flex的桌面电脑（不同于fydeOS和ChromeOS），**ChromeOS Flex无法直接安装安卓应用**，如果你的电脑不小心安装了这个操作系统**建议设置Linux容器并使用Phichain**（以实现曲线救国）。
 
 ## 我是苹果手机，我该如何安装TPhi Editor？
 
 暂时没有苹果平台的安装包。（先不要抱太多期待）
+
+## 如何下载TPhi Editor？
+
+参见[获取并安装](/INSTALL)页面。
