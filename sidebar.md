@@ -4,6 +4,8 @@
 * UI界面介绍
     * [编辑器主页](/UI/home)
     * [编辑器界面](/UI/editor)
+* 组件
+    * [音符和判定线](/tutorials/tphiedit/qwer)
 * 写谱教程
     * [新建你的第一个谱面](/tutorials/basic/new-chart)
 * 故障排除

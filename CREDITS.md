@@ -28,5 +28,11 @@
 ## 以及这些引用作品的来源
 
 * [Shanwer](https://blog.shanwer.top)
+* [不会特效の点缀星空](https://space.bilibili.com/1792961650)
 * [Godot官网文档](https://docs.godotengine.org/zh-cn)
 * [Limbus Company 灰机Wiki](https://limbuscompany.huijiwiki.com)（封面图引用了Limbus Company灰机Wiki）
+* [林长枫709](https://space.bilibili.com/9202840)（更改日志引用了这个作者）
+
+引用的Phigros自制谱谱面：
+
+* [かのてんちゃん](https://space.bilibili.com/363824681)
