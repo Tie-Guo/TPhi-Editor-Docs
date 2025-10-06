@@ -32,5 +32,5 @@
 
 * [鸣谢](/CREDITS)
 * [查看本仓库的issue](https://github.com/Tie-Guo/TPhi-Editor-Docs/issues)
-
+* [后话](/end)
 <footer id="mb-footer"></footer>
