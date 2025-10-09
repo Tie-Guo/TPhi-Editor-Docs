@@ -6,6 +6,7 @@
 - 补充应用程序在中国大陆的合规性信息<sup>注释1</sup>
   - ~~补充未成年人写谱相关注意事项~~（也许不会有人注意到，大概吧）
 - 送上[Phigros自制谱Wiki](https://pgrfm.miraheze.org/wiki/)（非必须）
+- 补充资源下载页面（不包括应用本体）
 
 > Wiki条目内容必须严格遵守[Wiki条例](https://pgrfm.miraheze.org/wiki/Project:Wiki%E6%9D%A1%E4%BE%8B)。
 
