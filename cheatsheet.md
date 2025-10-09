@@ -14,7 +14,7 @@
 ## 特定于名称
 
 - RPE： Re:PhiEdit
-- chxxy2573：程序小袁2573
+- chxxy2573、2573：程序小袁2573
 - TPE： TPhi Editor
 - Markdown： 是一个标记语言（~~bushi~~）。
 - ADOFAI： 冰与火之舞
