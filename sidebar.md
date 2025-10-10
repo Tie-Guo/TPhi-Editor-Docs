@@ -26,6 +26,7 @@
     * [BPM列表设置（手动设置）](/tutorials/others/BPM-List/bpm-list)
     * [将节拍转换为帧](/tutorials/others/beat-frame)
 * [术语表](/cheatsheet)
+* [资料下载](/content)
 * [FAQ](/faq/1)
 
 ------------
