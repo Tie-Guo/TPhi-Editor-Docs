@@ -76,7 +76,7 @@ Carlotta@montelli-2501:~$ git config --global carlotta@montelli.onmicrosoft.com
 
 绝大多数情况下**只需复制报错信息到Bing或者Github**就可以查到一些答案，但也有可能会一无所获。
 
-目前为止，Re:PhiEdit和TPhiEdit都不是可公开获得的软件（出于某些原因），获取Re:PhiEdit时，请认准cmdysj，谨防假冒。（如果有其他人声称有Re:PhiEdit源码，拉黑并举报就是。）而TPhi Editor，请按照[这个指南](/before-begin.md)来获取TPhi Editor。
+目前为止，Re:PhiEdit和TPhi Editor都不是可公开获得的软件（出于某些原因），获取Re:PhiEdit时，请认准cmdysj，谨防假冒。（如果有其他人声称有Re:PhiEdit源码，拉黑并举报就是。）而TPhi Editor，请按照[这个指南](/before-begin.md)来获取TPhi Editor。
 
 > *首先，我建议直接屏蔽CSDN，除了新添的仅VIP可阅读之外，先前就充斥着各种复制粘贴的文档，非常浪费你要解决问题搜索时造成的无效搜索。在中文互联网搜索不到你想要的结果时，可以试试别的搜索引擎，比如Bing，Google。*
 >

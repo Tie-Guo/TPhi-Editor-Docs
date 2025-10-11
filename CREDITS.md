@@ -32,3 +32,4 @@
 * [Godot官网文档](https://docs.godotengine.org/zh-cn)
 * [Limbus Company 灰机Wiki](https://limbuscompany.huijiwiki.com)（封面图引用了Limbus Company灰机Wiki）
 * [林长枫709](https://space.bilibili.com/9202840)（更改日志引用了这个作者）
+* [Arch Linux Wiki](https://wiki.archlinuxcn.org/wiki)

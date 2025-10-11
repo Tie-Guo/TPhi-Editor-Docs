@@ -26,13 +26,15 @@
     * [BPM列表设置（手动设置）](/tutorials/others/BPM-List/bpm-list)
     * [将节拍转换为帧](/tutorials/others/beat-frame)
 * [术语表](/cheatsheet)
+    * [术语说明](/contribute/offtopic)
 * [资料下载](/content)
 * [FAQ](/faq/1)
 
 ------------
 
 * [待办事项](/todo)
-* [鸣谢](/CREDITS)
+* [关于](/about)
 * [查看本仓库的issue](https://github.com/Tie-Guo/TPhi-Editor-Docs/issues)
 * [后话](/end)
+
 <footer id="mb-footer"></footer>
