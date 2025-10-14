@@ -1,0 +1,35 @@
+name: 提交工具/资料以供下载
+description: 收集一些好用的工具（MixerWangDev的说法是）
+labels: ['custom-content']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        上传内容时需要注意：
+        
+        - 内容需要遵守所在地及中国大陆相关法律。
+        - **请勿**上传TPhi Editor、RPE、Phichain等其他音游自制谱创作软件（这些自制谱创作软件的获取条件必须由各自所有者严格规定）。
+        - 你上传的软件所用的许可条款**确保允许二次分发**。
+        - **请勿分发盗版软件，一经发现，立即关闭issue并且锁定线程处理。**
+          - 然而一个例外：[Limbus Company零协汉化模组](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)
+        - 如果你是提交教程附件，请直接改为提交自定义教程。
+        - 上传的其他注意请参考[此处](https://tie-guo.github.io/TPhi-Editor-Docs/#/contribute/custom-tutorial)
+  - type: input
+    id: title
+    attributes:
+      label: 输入工具名称/资料标题
+      description: 建议填写标题，如果不填写标题或者标题胡写，会在下一次更新时总结它。
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: 介绍一下工具/资料
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 提交下载链接
+    validations: 
+      required: true
