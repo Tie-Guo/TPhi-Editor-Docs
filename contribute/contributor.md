@@ -50,8 +50,8 @@
 
 首次推送仓库前，请运行一下这个命令（前面的路径可忽略，相关的虚构用户名和电子邮箱仅为演示）：
 ```terminal
-Carlotta@montelli-2501:~$ |git config --global user.name "Carlotta"
-Carlotta@montelli-2501:~$ |git config --global carlotta@montelli.onmicrosoft.com
+$|git config --global user.name "Carlotta"
+$|git config --global carlotta@montelli.onmicrosoft.com
 ```
 
 之后按照你所用的代码编辑器的源代码管理集成完成提交和仓库推送（你会被要求登录到Github）。
