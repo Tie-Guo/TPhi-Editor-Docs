@@ -51,6 +51,8 @@
 首次推送仓库前，请运行一下这个命令（前面的路径可忽略，相关的虚构用户名和电子邮箱仅为演示）：
 
 > [!ATTENTION] **请勿按原样复制文中的命令**，实际的用户名和电子邮件地址请替换成自己的，因按原样复制导致的严重后果与作者无关。
+> 
+> 并且Git用户名命名时遵循一条规则：*Username may only contain alphanumeric characters or single hyphens, and cannot begin or end with a hyphen.*
 
 ```terminal
 $|git config --global user.name "Carlotta"
