@@ -56,7 +56,7 @@
 
 ```terminal
 $|git config --global user.name "Carlotta"
-$|git config --global carlotta@montelli.onmicrosoft.com
+$|git config --global user.email carlotta@montelli.onmicrosoft.com
 ```
 
 之后按照你所用的代码编辑器的源代码管理集成完成提交和仓库推送（你会被要求登录到Github）。
