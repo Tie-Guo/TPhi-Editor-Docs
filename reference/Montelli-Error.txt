@@ -1,0 +1,7 @@
+This file is recorded some information of the real Github User.
+
+It may cause some error when you tried to run command "git config --global user.name Carlotta".
+
+To see more, refer: https://github.com/Carlotta-Montelli
+
+and: https://tie-guo.github.io/TPhi-Editor-Docs/reference/image-result.png
