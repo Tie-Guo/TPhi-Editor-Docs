@@ -34,8 +34,10 @@
 ------------
 
 * [待办事项](/todo)
+* [安装TPE](https://www.bilibili.com/video/BV1GJ411x7h7)
 * [关于](/about)
 * [查看本仓库的issue](https://github.com/Tie-Guo/TPhi-Editor-Docs/issues)
 * [后话](/end)
+
 
 <footer id="mb-footer"></footer>
